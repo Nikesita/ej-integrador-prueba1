@@ -1,0 +1,60 @@
+
+
+.navbar-brand img{
+max-width: 100px;
+}
+
+.color-yo{
+    color:white;
+}
+#boton1{
+    color: #25a342;
+}
+
+/*Estilo de carousel*/
+.carousel-item{
+    opacity: .85;
+    background-size: cover;
+    background-position: center center;
+}
+
+.texto-carousel div{
+    text-align: right;
+position: -webkit-sticky;
+}
+.col-md-4 img{
+    width: 1300px;
+    border: solid 2px black;
+}
+
+#boton2{
+    width: 120px;
+}
+.text-center span{
+    text-decoration-line: underline;
+    text-decoration-style: dotted;
+}
+#boton3{
+    width: 1200px;
+    background-color: #3be454;
+}
+
+.flex-container {
+    display: flex;
+    flex-direction: row;
+    
+  }
+  
+  .flex-container > div {
+    background-color: #1d3a4a;
+    margin-left: 2px;
+  }
+   #margen{
+    padding-left: 10px;
+   } 
+    
+   
+    
+   
+    
+  
